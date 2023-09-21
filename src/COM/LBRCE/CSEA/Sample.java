@@ -11,6 +11,9 @@ public class Sample {
 		// TODO Auto-generated method stub
             System.out.println("Team Lead");
 	}
-
+	public static void charitha() {
+		// TODO Auto-generated method stub
+            System.out.println("Team Member : Charitha ");
+	}
 
 }
